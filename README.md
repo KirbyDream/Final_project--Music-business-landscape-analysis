@@ -52,7 +52,7 @@ What is contributing to this recent big increase?
 
 Next we’re going to see a year on year representation of the music revenues.
 
-## Breaking down..
+## Breaking down revienues over the years
   * The P2P days:
 
 P2P stands for peer to peer, it is a file sharing protocol that allows people to share documents (or music files) for free, it first appeared in the late 90’s.
